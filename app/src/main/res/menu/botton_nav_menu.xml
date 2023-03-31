@@ -9,10 +9,10 @@
     <item
         android:title="DashBoard"
         android:id="@+id/dashBoardFragment"
-        android:icon="@drawable/ic_baseline_home_24"/>
+        android:icon="@drawable/ic_baseline_dashboard_24"/>
     <item
         android:title="Profile"
         android:id="@+id/profileFragment"
-        android:icon="@drawable/ic_baseline_home_24"/>
+        android:icon="@drawable/ic_baseline_person_24"/>
 
 </menu>
