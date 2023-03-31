@@ -5,4 +5,9 @@
     <string name="todo">TODO</string>
     <string name="log_in">LOG IN</string>
     <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login">login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_sing_create_account">or sing create account</string>
 </resources>
