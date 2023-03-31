@@ -11,4 +11,12 @@
     <string name="forgot_password">Forgot password?</string>
     <string name="or_sing_create_account">or sing create account</string>
     <string name="dhrubasha_public_school">Dhrubasha Public School</string>
+    <string name="school">School</string>
+    <string name="school_name">School name</string>
+    <string name="email_address">Email Address</string>
+    <string name="email_id">Email ID</string>
+    <string name="name">Name</string>
+    <string name="mob_no">Mob no</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="no">no</string>
 </resources>
